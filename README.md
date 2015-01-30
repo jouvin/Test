@@ -1,4 +1,4 @@
 Test
 ====
 
-Test repository open to all LAL developers to exercise with GitHub workflow
+Test repository open to all LAL developers and friends to exercise with GitHub workflow
